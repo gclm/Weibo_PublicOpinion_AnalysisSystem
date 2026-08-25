@@ -4,7 +4,7 @@
 
 <a href="https://trendshift.io/repositories/15286" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15286" alt="666ghj%2FBettaFish | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-<a href="https://aihubmix.com/?aff=8Ds9" target="_blank"><img src="./static/image/logo_aihubmix.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>&ensp;
+<a href="https://inferera.com/?aff=8Ds9" target="_blank"><img src="./static/image/logo_aihubmix.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>&ensp;
 <a href="https://open.anspire.cn/?share_code=3E1FUOUH" target="_blank"><img src="./static/image/logo_anspire.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/666ghj/BettaFish?style=flat-square)](https://github.com/666ghj/BettaFish/stargazers)
@@ -69,7 +69,7 @@ Say goodbye to traditional data dashboards. In "WeiYu", everything starts with a
 
 ## 🪄 Sponsors
 
-LLM Model API Sponsor: <a href="https://aihubmix.com/?aff=8Ds9" target="_blank"><img src="./static/image/logo_aihubmix.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>
+LLM Model API Sponsor: <a href="https://inferera.com/?aff=8Ds9" target="_blank"><img src="./static/image/logo_aihubmix.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>
 
 <details>
 <summary>Provider of core agent capabilities including AI web search, file parsing, and web content scraping: <span style="margin-left: 10px"><a href="https://open.anspire.cn/?share_code=3E1FUOUH" target="_blank"><img src="./static/image/logo_anspire.png" alt="666ghj%2FBettaFish | Trendshift" height="50"/></a></span></summary>
@@ -572,7 +572,7 @@ The system supports any LLM provider that follows the OpenAI request format. You
 >from openai import OpenAI
 >
 >client = OpenAI(api_key="your_api_key", 
->                base_url="https://aihubmix.com/v1")
+>                base_url="https://inferera.com/v1")
 >
 >response = client.chat.completions.create(
 >    model="gpt-4o-mini",
